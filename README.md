@@ -57,17 +57,17 @@
 
 ## Comparison of Agile and Waterfall Methodologies:
 
-Feature	                                    Agile	                                                            Waterfall
-Approach	                        Iterative and incremental	                                            Linear and sequential
-Planning	                        Flexible, allows for changes throughout the project	                  Extensive upfront planning
-Requirements	                    Evolve throughout the project, customer collaboration is key	        Fixed and well-defined at the beginning
-Design	                          Emergent design, evolves with development	                            Detailed design completed before implementation
-Testing	                          Integrated throughout the development lifecycle	                      Typically done at the end of the development phase
-Customer Involvement	            High, continuous feedback and collaboration	                          Limited, primarily at the beginning and end
-Change Management	                Adapts well to changes	                                              Resists changes, requires formal change requests
-Documentation	                    Focus on working software over comprehensive documentation	          Emphasis on detailed documentation
-Risk Management	                  Addresses risks iteratively throughout the project	                  Risks are identified and mitigated during the planning phase
-Best Suited For	                  Projects with changing requirements, smaller teams	                  Projects with well-defined requirements, large teams, stable environments
+- Feature	                                    Agile	                                                            Waterfall
+- Approach	                      Iterative and incremental	                                             Linear and sequential
+- Planning	                      Flexible, allows for changes throughout the project	               Extensive upfront planning
+- Requirements	                      Evolve throughout the project, customer collaboration is key	     Fixed and well-defined at the beginning
+- Design	                                Emergent design, evolves with development	                         Detailed design completed before implementation
+- Testing	                                Integrated throughout the development lifecycle	                         Typically done at the end of the development phase
+- Customer Involvement	            High, continuous feedback and collaboration	                         Limited, primarily at the beginning and end
+- Change Management	                      Adapts well to changes	                                             Resists changes, requires formal change requests
+- Documentation	                      Focus on working software over comprehensive documentation	     Emphasis on detailed documentation
+- Risk Management	                      Addresses risks iteratively throughout the project	               Risks are identified and mitigated during the planning phase
+- Best Suited For	                      Projects with changing requirements, smaller teams	               Projects with well-defined requirements, large teams, stable environments
 
 ## Main Advantages and Disadvantages:
 
